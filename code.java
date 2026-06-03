@@ -7,10 +7,10 @@ public class Media1 {
             
             String msn1, msn2, msn3, msn4;
 
-            msn1 = JOptionPane.showInputDialog("Informe a primeira nota");
-            msn2 = JOptionPane.showInputDialog("Informe a segunda nota");
-            msn3 = JOptionPane.showInputDialog("Informe a terceira nota ");
-            msn4 = JOptionPane.showInputDialog("Informe a quarta nota");
+            msn1 = JOptionPane.showInputDialog("Entre com a primeira Nota");
+            msn2 = JOptionPane.showInputDialog("Entre com a segunda Nota");
+            msn3 = JOptionPane.showInputDialog("Entre com a terceira Nota ");
+            msn4 = JOptionPane.showInputDialog("Entre com a quarta Nota");
 
 
             n1= Integer.parseInt(msn1);
